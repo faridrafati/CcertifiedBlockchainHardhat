@@ -1,0 +1,22 @@
+.todo_list {
+    border-radius: 10px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    width: 800px;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px !important;
+}
+
+.button {
+    background-color:#4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20%;
+    align-items: center;
+}

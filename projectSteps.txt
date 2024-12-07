@@ -1,0 +1,17 @@
+Adoption ok
+Auction ok
+blockchainPoll ok
+certChat ok
+certificate ok
+chatBoxPlus ok
+cryptoDoggiesShop ok
+dappToken ok
+dappTokenSale ok
+Gaming ok
+*** TokenMaster Failed
+todoList ok
+VotingContract ok
+weightedVoting ok
+
+
+
